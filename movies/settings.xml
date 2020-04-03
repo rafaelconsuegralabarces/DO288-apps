@@ -4,7 +4,7 @@
          <mirror>
          <id>internal-repository</id>
          <name>Maven Repository Manager for classroom</name>
-         <!-- // TODO: Change the url attribute to the nexus proxy server URL for your environment. -->
+         <!-- // TODO: Change the url attribute to the nexus proxy server URL for your environment. DONE -->
          <url>http://nexus-common.apps.ocp-eu2.prod.nextcle.com/repository/java</url>
          <mirrorOf>*</mirrorOf>
          </mirror>
